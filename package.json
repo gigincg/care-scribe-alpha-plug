@@ -1,6 +1,5 @@
 {
-  "name": "care-scribe-ts",
-  "private": true,
+  "name": "care-scribe-alpha-plug",
   "version": "0.0.0",
   "type": "module",
   "repository": {
@@ -8,7 +7,7 @@
     "url": "https://github.com/gigincg/care-scribe-alpha-plug.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@gigincg:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "dev": "vite",
